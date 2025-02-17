@@ -107,13 +107,13 @@ span{
     color: #000;
 }
 .rodape{
-    color: black;
-    background-color: #ABD2FA;
-    padding: 24px;
-    text-align: center;
-    font-family: "Montserrat", serif;
-    font-size: 24px;
-    font-weight: 400;
+    color: whitesmoke;
+    /* background-color: #ABD2FA; */
+    padding: 10px;
+    text-align:right;
+    font-family:"Montserrat", serif;
+    font-size: 16px;
+    font-weight: 300;
     }
     
 .cabecalho{
